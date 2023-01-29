@@ -1,0 +1,23 @@
+{
+  "name": "mint_nft_on_polygon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berrezougAbdelhak/Mint_NFT_on_Polygon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berrezougAbdelhak/Mint_NFT_on_Polygon/issues"
+  },
+  "homepage": "https://github.com/berrezougAbdelhak/Mint_NFT_on_Polygon#readme",
+  "dependencies": {
+    "truffle": "^5.7.4"
+  }
+}
