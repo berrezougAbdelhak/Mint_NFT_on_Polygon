@@ -1,0 +1,7 @@
+-Si le déploiement ne s'effectue pas on peut utiliser cette méthode en ajoutant au testNetwork ces parametres 
+testnet: {
+  ...,
+  networkCheckTimeout: 10000,
+  timeoutBlocks: 200
+}
+
