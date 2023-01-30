@@ -1,0 +1,17 @@
+{
+    "attributes":[
+        {
+            "trait_type":"Color",
+
+            "value":"Black"
+        },
+        {
+            "trait_type":"Type",
+
+            "value":"Text"
+        }
+    ],
+    "description":"Text: NEw york city ",
+    "image":"https://ipfs.io/ipfs/QmV1qfNNCeZpSvBwkwEdhNjYByJrj8RyTcMw5wzgsS4F3c",
+    "name":"New York "
+}
